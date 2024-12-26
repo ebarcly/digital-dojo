@@ -1,2 +1,3 @@
-# digital-dojo
+# Digital Dojo
  
+Imagine you walk into Ryu's mountain dojo backyard - but instead of worn wooden training dummies and stone pathways, you find this code files and project folders. The terminal is the meditation spot, the keyboard the training weapon (figuratively). Each new coding exercise I saved here is like mastering a new technique, building the strength just as Ryu perfected his Hadoken. This is kinda like a digital dojo, where I hone my programming skills one challenge at a time...
